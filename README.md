@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ana Bennett</h1>
-<h3 align="center">An enthusiastic frontend software engineer located in Austin, TX</h3>
+<h3 align="center">Frontend Dev | Technical Project Manager | Technical Writer</h3>
 
 <h3 align="center">I'm happy to see you here.</h3> 
 
